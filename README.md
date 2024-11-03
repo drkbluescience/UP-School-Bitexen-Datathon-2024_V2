@@ -11,4 +11,4 @@ To understand women's economic participation and entrepreneurship comprehensivel
 
 The findings presented in this project aim to inform policymakers and stakeholders on the current landscape of gender equality in economic participation, with actionable insights to support female entrepreneurship and workforce engagement worldwide.
 
-*Note: This is the second version of the project, which received second place in the UP School & Bitexen Women in Datathon 2024.*
+*Note: This is the second version of the project, which received second place in the UP School & Bitexen Women in Datathon 2024. The first version can be viewed [here](https://www.kaggle.com/code/enisezengin/2nd-place-v1-upschool-bitexen-datathon).*
